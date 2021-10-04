@@ -5,7 +5,7 @@
 
 ### Predicting the working hours per week at different locations. The prediction is based on various attributes such as education, marital status, and so on.
 
-### Competition Leaderboard Public Leaderboard Rank - 84/166 & Private Leaderboard Rank - 22/162
+### Competition Public Leaderboard Rank - 84/166 & Private Leaderboard Rank - 22/162
 
 ### File information
  * MachineHack-work_hour_prediction_challenge-EDA.ipynb

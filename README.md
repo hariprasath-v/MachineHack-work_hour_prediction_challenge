@@ -34,10 +34,10 @@
      
 ### Feature Importance     
 
-![Alt text](https://github.com/hariprasath-v/MachineHack-work_hour_prediction_challenge/blob/AnalyticsVidhya-ML-DS-Competition/Feature%20Importance%20plot.png)
+![Alt text](https://github.com/hariprasath-v/MachineHack-work_hour_prediction_challenge/blob/main/Feature%20Importance%20plot.png)
 
 ### Hyperparameter Importance
 
-![Alt text](https://github.com/hariprasath-v/MachineHack-work_hour_prediction_challenge/blob/AnalyticsVidhya-ML-DS-Competition/Hyperparameter%20importance%20plot.png)
+![Alt text](https://github.com/hariprasath-v/MachineHack-work_hour_prediction_challenge/blob/main/Hyperparameter%20importance%20plot.png)
     
 
